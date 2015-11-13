@@ -1,0 +1,16 @@
+#loading {
+      position:         absolute;
+      top:              0px;
+      right:            0px;
+      background:       #ffffff;
+      color:            #000000;
+      font-size:        16px;
+      font-family:     Arial;
+      padding:          2px;
+      display:          none;
+}
+
+.obviousword1 {
+      color:red;
+}
+
