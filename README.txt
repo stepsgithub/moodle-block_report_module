@@ -9,5 +9,7 @@
 3. 如須知道通過率須至『課程通過率計算』使用
 4. 必須具有教師權限才可以使用報表模組的相關功能
 
+(註：由於每日會自動將學習報表傳送至FTP，所以請在block_report_module.php中的FTP_HOST(FTP主機)、FTP_USER(FTP帳號)、FTP_PASSWORD(FTP密碼)取代成符合環境的值)
+
 此專案由 宜蘭縣政府教育處(http://www.ilc.edu.tw/) 提供
 委託 智新資通服份有限公司(http://www.steps.com.tw/) 開發
